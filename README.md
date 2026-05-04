@@ -2,6 +2,8 @@
 
 NLP-based analysis of 2.8M+ Twitter customer support tweets. Classifies complaints into 7 categories and predicts sentiment using machine learning.
 
+![Dashboard](assets/dashboard.png)
+
 ## Overview
 
 Companies receive thousands of support requests daily. This project automates complaint categorization and sentiment detection to help support teams prioritize and route tickets efficiently.
